@@ -1,14 +1,36 @@
 *body{
     text-align: center;
     background-color: antiquewhite;
-     font-size: large;
-     font-style: italic;
+     font-size: 1.75rem;
+      font-style: italic;
+     font-family: Verdana;
 }
 
 header{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-size: medium;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.0rem;
+    font-family: arial;
+}
+footer{
+font-size: 0.75rem;
+text-align: end;
+}
+h1{
+font-size: 1.5rem;
+font-family: arial;
+font-style: italic;
+}h2{
+font-size: 1.25;
+font-family: arial;
+}
+h3{
+font-size: 1.10rem;
+font-family: verdana;
+font-style: italic;
+}
+main{
+font-size: 0.95rem;
+font-family: verdana;
 }
