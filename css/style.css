@@ -1,0 +1,11 @@
+*body{
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: medium;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
